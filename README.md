@@ -13,3 +13,4 @@ Live-hostable single page portfolio for Shaswat Kishore Prasad. Includes hero, r
 - Replace the Formspree endpoint in the contact form with your own.
 - Adjust gradients, colors, and fonts in `styles.css` to align with your personal brand.
 - Add additional project cards or experience entries using the existing markup as a template.
+- Personalize the resume-aware chatbot by editing the `knowledgeBase` responses in `script.js` and adjusting styles in `styles.css`.
